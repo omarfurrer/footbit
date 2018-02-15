@@ -1,0 +1,132 @@
+#show-tournament{
+    .well{
+        padding : 0;
+        #venue-details{
+            text-align: center;
+            color: rgb(255, 255, 255);
+            height: 230px;
+            background:  linear-gradient(
+                rgba(0, 0, 0, 0.33),
+                rgba(0, 0, 0, 0.46)
+                ), no-repeat right top;
+            border-bottom-right-radius: 4px;
+            border-top-right-radius: 4px;
+            h4:first-of-type {
+                padding-top: 50px;
+            }
+            h4{
+                margin: 0;
+                padding: 10px 0;
+            }
+        }
+    }
+    #bracket{
+        overflow-x: auto;
+    }
+}
+
+#index-tournaments{
+    @media (min-width: $screen-sm-min) {
+        #tournament-details{
+            text-align: center;
+        }
+    }
+}
+
+#dashboard{
+    #profile{
+        /*display: inline-block;*/
+    }
+}
+
+.match-list-item{
+
+}
+
+#profile-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /*max-width: 300px;*/
+    margin: auto;
+    text-align: center;
+    background-color: white;
+
+    .title {
+        color: grey;
+        font-size: 18px;
+    }
+
+    label {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+    }
+
+    a {
+        text-decoration: none;
+        font-size: 22px;
+        color: black;
+    }
+
+    label:hover, a:hover {
+        opacity: 0.7;
+    }
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+    padding: 10px 5px;
+}
+
+.stat-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /*max-width: 300px;*/
+    margin: auto;
+    /*text-align: center;*/
+    background-color: white;
+    padding:5px;
+
+    #name {
+        color: grey;
+        font-size: 18px;
+    }
+
+    #value{
+        text-align: center;
+        margin-top: 0px;
+    }
+
+
+}
+
+#admin-create-team,#admin-edit-team{
+    form{
+        select#players {
+            height: 400px;
+        }
+    }
+}
+#admin-edit-tournament-teams{
+    form{
+        select#teams {
+            height: 400px;
+        }
+    }
+}
+
+.bracket{
+    .team{
+        background-color: #0074D9 !important ;
+    }
+    .team.highlight{
+        background-color: green !important;
+    }
+
+}

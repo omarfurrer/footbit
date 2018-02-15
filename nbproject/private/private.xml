@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/package.json</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Http/Requests/Team/StoreTeamRequest.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/layouts/admin.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Http/Requests/Tournament/UpdateTournamentScheduleRequest.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Models/MatchAction.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Services/TournamentManagerService.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/matches/_form.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/tournaments/editSchedule.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Http/Controllers/Admin/MatchesController.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/teams/_form.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/composer.json</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Http/Controllers/Admin/TournamentsController.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/tournaments/_form.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Http/Requests/Match/StoreMatchRequest.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Http/Controllers/Admin/RefereesController.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Services/MatchManagerService.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/matches/create.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Repositories/Eloquent/TeamsRepositoryEloquent.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Repositories/Eloquent/MatchesRepositoryEloquent.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/users/_form.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/players/_form.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Models/Match.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Repositories/Eloquent/RefereesRepositoryEloquent.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/resources/views/admin/users/create.blade.php</file>
+            <file>file:/C:/Users/RODZzZ/development/laravel/footbit/app/Http/Controllers/PagesController.php</file>
+        </group>
+    </open-files>
+</project-private>
